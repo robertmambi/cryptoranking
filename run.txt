@@ -1,0 +1,4 @@
+source ~/projects/crypto/venv/bin/activate
+~/.duckdb/cli/latest/duckdb
+~/.duckdb/cli/latest/duckdb crypto.duckdb --ui
+
