@@ -1,1 +1,5 @@
-venv
+config.py
+__pycache__/
+venv/
+*.duckdb
+logs/
